@@ -47,7 +47,7 @@ h2 {
 
 .bottomcloud {
   position: absolute;
-  top: 225px;
+  top: 400px;
   left: 250px;
 }
 .computer{
@@ -62,4 +62,8 @@ h2 {
 .purple{
   color: #40108b;
   font-weight: normal;
+  line-height: 10px;
+}
+.name{
+  margin-bottom: 0px;
 }
